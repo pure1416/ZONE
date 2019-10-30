@@ -1,0 +1,5 @@
+﻿  3d.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\hal\hew\zone\input.h(5): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  ZONE.vcxproj -> D:\HAL\HEW\ZONE\Debug\ZONE.exe
